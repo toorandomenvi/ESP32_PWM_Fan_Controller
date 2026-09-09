@@ -11,6 +11,10 @@ I will be posting 3 versions on here.
 2. PWM controller with WEB UI and API functionality
 3. BC250 version that includes the powerbutton functionality also
 
+## Disclaimer
+I am not a programmer, I do have limited knowledge of programming so part of this project has been vibe coded using claude.
+I did go through the generated code after the fact to double check it but if this is a deal breaker for you, feel free to skip this project.
+This project (same as all of my projects) was made to solve a personal issue I was having, and it has been uploaded here in hopes, that it will save someone time.
 
 ## 1. Requirements
 
